@@ -1,4 +1,4 @@
-# CPU Rank
+
 CPU Rank is a native iOS application for iPhone and iPad that provides comprehensive CPU performance rankings and comparisons. Unlike scattered online benchmarks, this app features a clean, modern interface with fluid native animations and dark mode support — redefining how CPU performance data is accessed and compared.
 
 The app covers 5900+ CPUs with detailed specifications including multi-core score, single-core score, core count, frequency, TDP, socket type, and release date. It also supports multi-dimensional filtering, performance tier charts, and side-by-side comparisons — the perfect tool for PC builders, tech enthusiasts, and hardware researchers.
@@ -49,7 +49,7 @@ The app covers 5900+ CPUs with detailed specifications including multi-core scor
 **Laptop Shoppers**: Compare mobile processors to find the best laptop for your needs. Filter by performance tier and see which CPUs offer the best balance of power and efficiency.
 
 **IT Professionals**: Quickly reference server CPU specifications for infrastructure planning. Compare multi-core performance for virtualization and compute workloads.
-
+![hi](CpuRank1.PNG)
 ## 📧 Support or Contact
 
 **Email**: supportsw365@163.com
